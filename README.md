@@ -18,5 +18,4 @@ dst_code : 송장번호
 
 Copyright(C) 2019 zeroday0619
 
-MIT LICENSE
 [MIT LICENSE](https://github.com/zeroday0619/DeliveryServiceTracking/blob/master/LICENSE)
