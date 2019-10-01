@@ -13,3 +13,10 @@ dst_code : 송장번호
 
 ## 참조 문서
 [스마트택배]http://info.sweettracker.co.kr/apidoc
+
+## LICENSE / COPYRIGHT
+
+Copyright(C) 2019 zeroday0619
+
+MIT LICENSE
+[MIT LICENSE](https://github.com/zeroday0619/DeliveryServiceTracking/blob/master/LICENSE)
