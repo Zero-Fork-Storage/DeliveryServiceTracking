@@ -9,4 +9,4 @@ _int = Template_Gen(code=Code.search(name="cj대한통운"), dst_code="111111111
 name : 택배회사 이름,
 dst_code : 송장번호
 
-[스마트택배]: http://info.sweettracker.co.kr/apidoc
+[스마트택배]http://info.sweettracker.co.kr/apidoc
