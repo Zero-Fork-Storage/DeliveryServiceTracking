@@ -3,7 +3,7 @@
 
 ## run
 DST_run.py
-```
+```python3
 _int = Template_Gen(code=Code.search(name=""), dst_code="")
 ```
 name : 택배회사 이름
