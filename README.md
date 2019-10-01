@@ -4,7 +4,7 @@
 ## run
 DST_run.py
 ```python3
-_int = Template_Gen(code=Code.search(name=""), dst_code="")
+_int = Template_Gen(code=Code.search(name="cj대한통운"), dst_code="111111111111")
 ```
-name : 택배회사 이름
+name : 택배회사 이름,
 dst_code : 송장번호
