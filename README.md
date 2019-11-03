@@ -11,8 +11,6 @@ dst_code : 송장번호
 
 ![실행결과](https://github.com/zeroday0619/DeliveryServiceTracking/blob/master/image.png)
 
-## 참조 문서
-[스마트택배]http://info.sweettracker.co.kr/apidoc
 
 ## LICENSE / COPYRIGHT
 
