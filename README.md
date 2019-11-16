@@ -1,6 +1,6 @@
 # DeliveryServiceTracking
 택배 배송 상황을 json으로 표시합니다 [deprecated]
-
+https://github.com/zeroday0619/Real-Time-Delivery-Query-API
 ## 실행
 DST_run.py
 ```python3
