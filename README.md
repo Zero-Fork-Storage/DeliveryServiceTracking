@@ -1,5 +1,5 @@
 # DeliveryServiceTracking
-택배 배송 상황을 json으로 표시합니다
+택배 배송 상황을 json으로 표시합니다 [deprecated]
 
 ## 실행
 DST_run.py
